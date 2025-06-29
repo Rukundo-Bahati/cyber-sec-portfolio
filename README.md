@@ -25,8 +25,8 @@ Welcome to my personal cybersecurity portfolio. I'm a passionate penetration tes
 
 ## 📫 Let's Connect
 - GitHub: [@Rukundo-Bahati](https://github.com/Rukundo-Bahati)
-- TryHackMe: [Profile](https://tryhackme.com/p/B4hati) *(if public)*
-- Email: [your.email@example.com](mailto:rukundorca@gmail.com)
+- TryHackMe: [Profile](https://tryhackme.com/p/B4hati) 
+- Email: [rukundorca@gmail.com](mailto:rukundorca@gmail.com)
 
 ---
 
